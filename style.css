@@ -2,7 +2,7 @@
     display: flex;
     background-color: lightskyblue;
     border-style: groove;
-    background-color: black;
+    border-color: black;
 }
 h1{
     text-align: center;
