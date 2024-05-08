@@ -1,0 +1,6 @@
+.cabecalho{
+    display: flex;
+    background-color: lightskyblue;
+    border-style: groove;
+    background-color: black;
+}
