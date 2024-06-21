@@ -2,11 +2,12 @@
     display: flex;
     background-image: url(mao-desenhada-formulas-cientificas-na-lousa_23-2148496321.jpg);
     border-style: groove;
-    border-color: black;
+    border-color: rgb(0, 0, 0);
 }
 h1{
     text-align: center;
-    color: black;
+    color: rgb(255, 255, 255);
+    border-color: black;
     font-size: 80px;
     margin-left: 35%;
 }
