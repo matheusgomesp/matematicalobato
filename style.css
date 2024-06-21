@@ -7,7 +7,7 @@
 h1{
     text-align: center;
     color: rgb(255, 255, 255);
-    border-color: black;
+    text-decoration-color: black;
     font-size: 80px;
     margin-left: 35%;
 }
@@ -36,3 +36,4 @@ button{
     border: none;
     cursor: pointer;
 }
+button
