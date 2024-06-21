@@ -29,4 +29,10 @@ th{
 input[type="number"]{
     width: 60px;
 }
-button
+button{
+    background-color: antiquewhite;
+    color: aquamarine;
+    padding: 6px 10px;
+    border: none;
+    cursor: pointer;
+}
