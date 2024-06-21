@@ -36,4 +36,7 @@ button{
     border: none;
     cursor: pointer;
 }
-button
+button:hover{
+    background-color: blue;
+    
+}
